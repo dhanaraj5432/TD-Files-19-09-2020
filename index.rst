@@ -11,3 +11,4 @@ Welcome to MyProject1 documentation!
    :numbered:
    
    file_1.md
+   file_2.md
